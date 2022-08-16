@@ -1,0 +1,149 @@
+body{
+    position: relative;
+    background-color: rgba(13, 13, 13, 1);
+}
+
+#logo{
+    position: relative;
+    top: 130px;
+    left: 48px;
+    width: 122px;
+    height: 47px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-size: 32px;
+    font-family: Heebo;
+    line-height: 47px;
+}
+
+#header{
+    width: 356px;
+    height: 73px;
+    position: relative;
+    top: 270px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 50px;
+    font-weight: 400;
+    font-family: Heebo;
+}
+
+#para{
+    position: relative;
+    top: 290px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 45px;
+    line-height: 65px;
+    font-family: Hebbo;
+}
+
+#image-container{
+    position: relative;
+    top: 389px;
+    left: 48px;
+}
+
+#img{
+    width: 1344px;
+    height: 620px;
+}
+
+#sub-header{
+    position: relative;
+    top: 475px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 50px;
+    line-height: 65px;
+    font-family: Heebo;
+}
+
+#sub-para{
+    position: relative;
+    top: 490px;
+    left: 48px;
+    font-family: Heebo;
+    font-size: 45px;
+    line-height: 65px;
+    color: rgba(140, 140, 140, 1);
+    font-weight: 400;
+}
+
+#card-cont{
+    position: relative;
+    top: 560px;
+    left: -33px;
+}
+
+#card-title{
+    font-weight: 400;
+    font-family: Heebo;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+    padding-bottom: 5px;
+}
+
+#card-text{
+    font-size: 16px;
+    line-height: 25px;
+    color: rgba(140, 140, 140, 1);
+    font-weight: 400;
+    font-family: Heebo;
+}
+
+#card-cont2{
+    position: relative;
+    top: 601px;
+    left: -33px;
+}
+
+#image-contain{
+    position: relative;
+    top: 650px;
+    left: 48px;
+}
+
+#img2{
+    width: 1344px;
+    height: 836px;
+}
+
+#header3{
+    position: relative;
+    top: 720px;
+    left: 48px;
+    font-size: 43px;
+    line-height: 50px;
+    font-weight: 400;
+    font-family: Heebo;
+    color: rgba(255, 255, 255, 1);
+}
+
+#para3{
+    position:relative;
+    top: 750px;
+    left: 48px;
+    font-size: 45px;
+    font-family: Heebo;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+
+#insight{
+    position: relative;
+    top: 830px;
+    left: 48px;
+    font-size: 45px;
+    font-family: Heebo;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+
+i{
+    position: relative;
+    top: 7px;
+    margin-left: 20px !important;
+    padding-bottom: 15rem !important;
+}
